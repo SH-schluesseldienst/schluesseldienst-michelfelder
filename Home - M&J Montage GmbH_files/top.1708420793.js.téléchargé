@@ -1,0 +1,1 @@
+var Cyberhouse=Cyberhouse||{Callbacks:[],Lazyload:[],Settings:{}};Cyberhouse.Settings={resourcePath:"/typo3conf/ext/theme/Resources/Public/Template",language:"de",products:{previewCount:6}};
